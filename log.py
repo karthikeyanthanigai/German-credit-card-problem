@@ -14,29 +14,29 @@ y = Dataset.iloc[:, [-1]].values
 from sklearn.preprocessing import LabelEncoder
 labelencoder = LabelEncoder()
 X[:, 0] = labelencoder.fit_transform(X[:, 0])
-labelencoder = LabelEncoder()
+
 X[:, 2] = labelencoder.fit_transform(X[:, 2])
-labelencoder = LabelEncoder()
+
 X[:, 3] = labelencoder.fit_transform(X[:, 3])
-labelencoder = LabelEncoder()
+
 X[:, 5] = labelencoder.fit_transform(X[:, 5])
-labelencoder = LabelEncoder()
+
 X[:, 6] = labelencoder.fit_transform(X[:, 6])
-labelencoder = LabelEncoder()
+
 X[:, 8] = labelencoder.fit_transform(X[:, 8])
-labelencoder = LabelEncoder()
+
 X[:, 9] = labelencoder.fit_transform(X[:, 9])
-labelencoder = LabelEncoder()
+
 X[:, 11] = labelencoder.fit_transform(X[:, 11])
-labelencoder = LabelEncoder()
+
 X[:, 13] = labelencoder.fit_transform(X[:, 13])
-labelencoder = LabelEncoder()
+
 X[:, 14] = labelencoder.fit_transform(X[:, 14])
-labelencoder = LabelEncoder()
+
 X[:, 16] = labelencoder.fit_transform(X[:, 16])
-labelencoder = LabelEncoder()
+
 X[:, 18] = labelencoder.fit_transform(X[:, 18])
-labelencoder = LabelEncoder()
+
 X[:, 19] = labelencoder.fit_transform(X[:, 19])
 
 
