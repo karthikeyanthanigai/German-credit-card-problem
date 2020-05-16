@@ -1,6 +1,8 @@
 # German-credit-card-problem
 In this repository we will see this German credit card problem and try to solve this classification problem using logistic regression
 
+![Image description](https://medici-prod.s3-us-west-2.amazonaws.com/uploads/are-credit-cards-the-same-in-the-us-and-canada.jpg)
+
 To run the code follow the below steps:
 
 1.Install python(3.6+) and need packages.
